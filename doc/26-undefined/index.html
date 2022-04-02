@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>🚀 JS</title>
+	</head>
+	<body>
+		<h3>Abre la consola de tu navegador 🤖</h3>
+		<script>
+			//JSON
+			var usuario = {
+				nombre: 'Peter',
+				edad: 100,
+				pais: 'Chile',
+				mascotas: ['blanco', 'negro'],
+				perfil: {
+					tipo: 'privado',
+					cuenta: 'premium',
+				},
+				ciudad: 'Iquique',
+			};
+
+			console.log(usuario.ciudad);
+
+			if (!usuario.ciudad) {
+				console.log('hola');
+			}
+
+			if ('ciudad' in usuario) {
+				console.log('el usuario tiene ciudad');
+			} else {
+				console.log('el usuario no tiene ciudad');
+			}
+		</script>
+	</body>
+</html>

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>🚀 JS</title>
+	</head>
+	<body>
+		<h3>Abre la consola de tu navegador 🤖</h3>
+		<script>
+			var obj = new Object();
+			//var obj = {};
+
+			//escribir valores en las propiedades
+			obj.nombre = 'Tu Nombre';
+			obj['edad'] = 99;
+
+			console.log(obj.nombre);
+			console.log(obj['nombre']);
+
+			console.log(obj.edad);
+			console.log(obj['edad']);
+
+			//métodos
+			obj.sumar = function (x, y) {
+				return x + y;
+			};
+
+			var a = obj.sumar(1, 10);
+			console.log(a);
+		</script>
+	</body>
+</html>
