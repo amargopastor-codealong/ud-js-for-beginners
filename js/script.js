@@ -69,7 +69,7 @@ window.onload = () => {
     function go_doc() {
         //location.href = "https://github.com/amargopastor-code-along/ca-js-intro";
         window.open(
-            'https://github.com/amargopastor-code-along/ud-js-for-beginners',
+            'https://github.com/amargopastor-code-along/ud-js-for-beginners/tree/main/docs',
             '_blank' // <- This is what makes it open in a new window.
           );
     };
