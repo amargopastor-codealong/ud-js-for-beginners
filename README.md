@@ -4,6 +4,10 @@
 
 ![JS](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white&style=flat-square)
 
+<p align="center">
+  <img src="./images/readme_img.png" style="width: 75%">
+</p>
+
 ## Table of Contents
 
 1. [project](./docs/01-project)
