@@ -7,13 +7,6 @@ body {
     margin: 10px 20px;
 }
 
-#header {
-    text-align: center;
-    height: 40px;
-    line-height: 40px;
-    background-color:#F16F51;
-}
-
 h1 {
     vertical-align: middle;
     color: white;
@@ -22,10 +15,6 @@ h1 {
 
 .row {
     margin: 10px 20px;
-}
-
-#results {
-    margin: 30px 20px 10px 0px;
 }
 
 .person-row {
@@ -48,4 +37,24 @@ h1 {
 .person-row > button {
     float: right;
 }
+
+.button{
+    padding: 5px;
+}
+
+.home_div{
+    text-align: center;
+}
+
+#results {
+    margin: 30px 20px 10px 0px;
+}
+
+#header {
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    background-color:#3de3a6;
+}
+
 
