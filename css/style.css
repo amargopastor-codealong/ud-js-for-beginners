@@ -22,7 +22,7 @@ h1 {
     padding: 10px;
     width: 100%;
     float: left;
-    background-color: #fee0d8;
+    background-color: #b7d78d;
 }
 
 .person-row img {
@@ -38,7 +38,7 @@ h1 {
     float: right;
 }
 
-.button{
+button{
     padding: 5px;
 }
 

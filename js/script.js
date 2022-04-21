@@ -16,9 +16,11 @@ window.onload = () => {
 					'" />\
                                 <div class="person-info">\
                                 <div>' +
+					'Name: ' +
 					students[i].name +
 					'</div>\
                                 <div>' +
+					'Hobby: ' +
 					students[i].hobby +
 					'</div></div>\
                                 <button>Add as friend</button></div>';
@@ -51,9 +53,11 @@ window.onload = () => {
 				'" />\
             <div class="person-info">\
             <div>' +
+				'Name: ' +
 				students[i].name +
 				'</div>\
             <div>' +
+				'Hobby: ' +
 				students[i].hobby +
 				'</div></div>\
              <button>Add as friend</button></div>';
