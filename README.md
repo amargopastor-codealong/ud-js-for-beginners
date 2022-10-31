@@ -1,6 +1,6 @@
 # Javascript for beginners
 
-[TRY HERE! 🔥](https://amargopastor-code-along.github.io/ud-js-for-beginners/)
+[TRY HERE! 🔥](https://amargopastor-codealong.github.io/ud-js-for-beginners/)
 
 ![JS](https://img.shields.io/badge/-Javascript-61DAFB?logo=javascript&logoColor=white&style=flat-square)
 
